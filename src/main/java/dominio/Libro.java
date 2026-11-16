@@ -1,4 +1,4 @@
-package Libro;
+package dominio;
 
 public class Libro {
     private String titulo;
@@ -12,5 +12,6 @@ public class Libro {
         this.numpaginas = numpaginas;
         this.isbn = isbn;
     }
+
 }
 
